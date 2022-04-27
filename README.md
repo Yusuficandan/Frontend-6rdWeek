@@ -9,3 +9,5 @@
 - 07-foreach.js -> foreach liste icerisinde kullanildi. Degerler createElement kullanilarak li etiketiyle yazdirildi
 - 08-filter-array.js -> filter metodu USERS dizisiyle kullanilarak durumu aktif olanlar listelendi
 - 09-map.js -> map yapisi USERS dizisi ile incelendi
+- 10-object.js -> Nesne olusturuldu. ozellikleri kontrol edildi
+- 11-object-key.js -> Nesne icerisinde key,value ulasildi. Nesneler baska nesnelere atandi. 
