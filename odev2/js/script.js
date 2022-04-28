@@ -12,12 +12,12 @@
         ltbDOM.addEventListener('click', notification)
 
         for (let i = 0; i < ul_li.length; i++) {
-            Span_create
+            new_element
             ul_li[i].append(event_close)
             ul_li[i].onclick = check
         }
 
-        function Span_create() {
+        function new_element() {
             let event_close = document.createElement("span")
             event_close.textContent = "\u00D7"
             event_close.classList.add("close")
