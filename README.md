@@ -11,3 +11,6 @@
 - 09-map.js -> map yapisi USERS dizisi ile incelendi
 - 10-object.js -> Nesne olusturuldu. ozellikleri kontrol edildi
 - 11-object-key.js -> Nesne icerisinde key,value ulasildi. Nesneler baska nesnelere atandi. 
+- 12-object-array.js -> Obje icerisinde array ve objelere yer verildi
+- 13-object-destruct.js -> Destructuring yapisi incelendi. objeler ile kullanilarak yeni bagimsiz nesleler türetildi
+ 
