@@ -13,4 +13,6 @@
 - 11-object-key.js -> Nesne icerisinde key,value ulasildi. Nesneler baska nesnelere atandi. 
 - 12-object-array.js -> Obje icerisinde array ve objelere yer verildi
 - 13-object-destruct.js -> Destructuring yapisi incelendi. objeler ile kullanilarak yeni bagimsiz nesleler türetildi
+- 14-try-catch.js -> try catch error yapisi incelendi
+- 15-FetchAPI.js -> JSON ve API dosyalarindan veriler elde edildi. API uzerinden gelen veriler createElement medotuyla body tag'ı icerisine yazdirildi 
  
