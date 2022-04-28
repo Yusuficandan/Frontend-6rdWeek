@@ -1,3 +1,4 @@
+// Made by Yusuf CANDAN
 
 (function (window, document) {
     window.onload = init;
